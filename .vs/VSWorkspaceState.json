@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App",
+    "\\App\\Talent.App.WebApp",
+    "\\App\\Talent.App.WebApp\\wwwroot",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Employer",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Employer\\ManageJob",
+    "\\Talent.Services.Listing",
+    "\\Talent.Services.Listing\\Controllers",
+    "\\Talent.Services.Profile",
+    "\\Talent.Services.Profile\\Controllers"
+  ],
+  "SelectedNode": "\\Talent.Services.Listing\\Controllers\\ListingController.cs",
+  "PreviewInSolutionExplorer": false
+}
