@@ -14232,11 +14232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Services.Identity\\Talent.Services.Identity.csproj",
+      "projectUniqueName": "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Services.Identity\\Talent.Services.Identity.csproj",
       "projectName": "Talent.Services.Identity",
-      "projectPath": "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Services.Identity\\Talent.Services.Identity.csproj",
+      "projectPath": "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Services.Identity\\Talent.Services.Identity.csproj",
       "packagesPath": "C:\\Users\\pjsan\\.nuget\\packages\\",
-      "outputPath": "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Services.Identity\\obj\\",
+      "outputPath": "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Services.Identity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -14260,8 +14260,8 @@
         "netcoreapp2.0": {
           "targetAlias": "netcoreapp2.0",
           "projectReferences": {
-            "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Common\\Talent.Common.csproj": {
-              "projectPath": "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Common\\Talent.Common.csproj"
+            "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Common\\Talent.Common.csproj": {
+              "projectPath": "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Common\\Talent.Common.csproj"
             }
           }
         }

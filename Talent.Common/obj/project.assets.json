@@ -10667,11 +10667,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Common\\Talent.Common.csproj",
+      "projectUniqueName": "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Common\\Talent.Common.csproj",
       "projectName": "Talent.Common",
-      "projectPath": "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Common\\Talent.Common.csproj",
+      "projectPath": "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Common\\Talent.Common.csproj",
       "packagesPath": "C:\\Users\\pjsan\\.nuget\\packages\\",
-      "outputPath": "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Common\\obj\\",
+      "outputPath": "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -13669,11 +13669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj",
+      "projectUniqueName": "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Services.Listing\\Talent.Services.Talent.csproj",
       "projectName": "Talent.Services.Talent",
-      "projectPath": "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj",
+      "projectPath": "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Services.Listing\\Talent.Services.Talent.csproj",
       "packagesPath": "C:\\Users\\pjsan\\.nuget\\packages\\",
-      "outputPath": "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Services.Listing\\obj\\",
+      "outputPath": "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Services.Listing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -13697,11 +13697,11 @@
         "netcoreapp2.0": {
           "targetAlias": "netcoreapp2.0",
           "projectReferences": {
-            "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Common\\Talent.Common.csproj": {
-              "projectPath": "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Common\\Talent.Common.csproj"
+            "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Common\\Talent.Common.csproj": {
+              "projectPath": "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Common\\Talent.Common.csproj"
             },
-            "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj": {
-              "projectPath": "F:\\Industry Connect\\TalentCompetition\\talent-competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj"
+            "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Services.Profile\\Talent.Services.Profile.csproj": {
+              "projectPath": "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\Talent.Services.Profile\\Talent.Services.Profile.csproj"
             }
           }
         }

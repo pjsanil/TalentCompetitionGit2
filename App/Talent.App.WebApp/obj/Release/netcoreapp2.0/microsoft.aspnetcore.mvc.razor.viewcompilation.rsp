@@ -1,0 +1,26 @@
+F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Talent.App.WebApp
+--content-root=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\About.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\Contact.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\EmployerFeed.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\EmployerJobPost.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\EmployerProfile.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\Index.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\ManageJobs.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\ResetPassword.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\TalentDetail.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\TalentFeed.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\TalentMatching.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\TalentProfile.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\TalentWatchlist.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\UserAccountSetting.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Home\UserSettings.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Shared\Error.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Shared\_Footer.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Shared\_Head.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Shared\_Layout.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\_ViewImports.cshtml
+--file=F:\Industry Connect\TalentCompetition\talent-competition\App\Talent.App.WebApp\Views\_ViewStart.cshtml

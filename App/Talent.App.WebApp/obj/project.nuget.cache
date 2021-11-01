@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HIWKgzerwIrTg652dsqFrWLdLbwVxcc+bYlwsOWIugq+bjMyl5aO1TXGtha2n05sFU9FdxwVS8tDM1pbO+lFoA==",
+  "dgSpecHash": "aeGlI9idn3/2G8a7FaPk8Dz3rR9wl5irtwOpcRqQTZhBYwWFgNkN38Zx3gHUybxNcu/ZU0fSz7UFu0a1uWJvQg==",
   "success": true,
-  "projectFilePath": "F:\\Industry Connect\\TalentCompetition\\talent-competition\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+  "projectFilePath": "F:\\Industry Connect\\TalentCompetitionGit\\talent-competition1\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",
